@@ -21,5 +21,5 @@ Data is stored temporarily in an **in-memory array** (no database used).
 - **Express.js**
 - **Postman** (for API testing)
 
- ## Added mongouri to .env and .
+ ## Added mongouri to .env and placed it in .gitignore
 
