@@ -1,7 +1,7 @@
 # Synergia Event Booking API
 
 A simple REST API built using **Node.js** and **Express.js** to manage event bookings for the Synergia technical event.  
-Data is stored temporarily in an **in-memory array** (no database used).
+
 
 ## Features
 
@@ -14,12 +14,11 @@ Data is stored temporarily in an **in-memory array** (no database used).
 - Filter bookings by event name  
 
 ---
-
-## Tech Stack
-
-- **Node.js**
-- **Express.js**
-- **Postman** (for API testing)
-
- ## Added mongouri to .env and placed it in .gitignore
+## Steps:
+ -npm init -y
+ -npm i express
+ -npm i mongoose
+ -npm i dotenv
+ -created REST API
+ -Added mongouri to .env and placed it in .gitignore
 
